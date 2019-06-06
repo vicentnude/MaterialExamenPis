@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BurgerRun</string>
+    <string name="play_button">Jugar</string>
+    <string name="lvl1">1</string>
+    <string name="lvl2">2</string>
+    <string name="lvl3">3</string>
+    <string name="lvl4">4</string>
+    <string name="title_text">NIVELLS</string>
+    <string name="login_tittle">Iniciar Sessió</string>
+    <string name="register_tittle">Registrar-se</string>
+    <string name="default_username">Usuari</string>
+    <string name="default_mail">usuari@gmail.com</string>
+    <string name="notification_channel_description">Channel Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

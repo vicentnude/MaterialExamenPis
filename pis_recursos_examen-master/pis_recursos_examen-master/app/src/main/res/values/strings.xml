@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RecursosExamenPIS</string>
+    <string name="app_login">Login Screen</string>
+    <string name="web_client_id">717208789756-4fgauicvs87nc129nl32fpatnbsfg93v.apps.googleusercontent.com</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="failed_login">Login Failed</string>
+    <string name="failed_ddbb">Can\'t connect to Firebase</string>
+    <string name="failed_google">Can\'t use google sign</string>
+    <string name="logout">Logout</string>
+    <string name="uname">User Name</string>
+    <string name="umail">User Mail</string>
+    <string name="savefb">Save Firebase</string>
+    <string name="savesp">Save SharedPref</string>
+    <string name="loadsp">Load SharedPref</string>
+    <string name="no_saved_values">No saved values yet</string>
+    <string name="user_loaded">User Loaded</string>
+    <string name="user_mod_fb">User modified in Firebase</string>
+    <string name="user_save_sp">User Saved Local</string>
+    <string name="play_snake">Play Snake</string>
+    <string name="back">Back</string>
+    <string name="snake_game">Snake</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+</resources>

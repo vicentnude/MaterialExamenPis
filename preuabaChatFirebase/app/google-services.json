@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258111828615",
+    "firebase_url": "https://messengerprueba-ecb60.firebaseio.com",
+    "project_id": "messengerprueba-ecb60",
+    "storage_bucket": "messengerprueba-ecb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258111828615:android:68fc516685634877",
+        "android_client_info": {
+          "package_name": "com.example.preuabachatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258111828615-o0e0ag9smmfdg28alnquqqh7j2t8lldb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RY5R3uF93lAD9qXcnASMngFSG6klnzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258111828615-o0e0ag9smmfdg28alnquqqh7j2t8lldb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+            android:title="Configuració"
+            android:key="pref_key_login_settings">
+
+
+        <SwitchPreference
+                android:key="So"
+                android:title="So"
+                android:summary="Activat/Desactivat So"
+                android:defaultValue="true"
+        />
+        <SwitchPreference
+                android:key="Vibration"
+                android:title="Vibration"
+                android:summary="Activat/Desactivat Vibració"
+                android:defaultValue="true"
+        />
+        <SwitchPreference
+                android:key="Notificacions"
+                android:title="Notificacions"
+                android:summary="Activat/Desactivat Notificacions"
+                android:defaultValue="false"
+        />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="Sobre Nosaltres"
+            android:key="pref_key_security_settings"/>
+
+
+    <Preference
+            android:key="4"
+            android:id="@+id/yusepp"
+            android:title="-@Yusepp"
+            android:summary="Dev"
+    />
+
+    <Preference
+            android:key="5"
+            android:title="-@Vicent"
+            android:summary="Dev"
+    />
+
+    <Preference
+            android:key="6"
+            android:title="-@Poma"
+            android:summary="Dev"
+    />
+
+    <Preference
+            android:key="7"
+            android:title="-@Ricard"
+            android:summary="Dev"
+    />
+
+</PreferenceScreen>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">preuabaChatFirebase</string>
+    <string name="title_activity_chat_screen">chatScreen</string>
+</resources>

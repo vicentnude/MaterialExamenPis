@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SnakeActivity" android:orientation="vertical" android:background="@color/darkGrey"
+        android:id="@+id/snakeScreen">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:gravity="end" android:padding="5dp">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/points" android:layout_weight="1"
+                android:textColor="@android:color/white" android:textSize="30sp"
+                android:layout_gravity="center_vertical" android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp" tools:text="0" android:textAlignment="textEnd"
+                tools:ignore="RtlCompat"/>
+        <Button
+                android:text="@string/pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/pauseResumeBtn"
+                style="@style/Widget.AppCompat.Button.Colored" android:layout_marginEnd="10dp"/>
+        <Button
+                android:text="@string/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/backBtn"
+                style="@style/Widget.AppCompat.Button.Colored"/>
+    </LinearLayout>
+</LinearLayout>
